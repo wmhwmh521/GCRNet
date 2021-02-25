@@ -33,4 +33,4 @@ Contrast experiment and robust experiment are all additional experiments to exam
 ## 4.Run the codes 
 ***
 
-If you have downloaded all datasets and ensure that the path in GCRNet or other files are correct, just run the codes. The training process and the testing process are performed iteratively. In each epoch the results wiil be performed on the window. if you want to run your own data, you have to down load the magazine datasets to train the model for a while and run the evaluate function with corresponding parameters.
+If you have downloaded all datasets and ensure that the path in GCRNet or other files are correct, just run the codes. The training process and the testing process are performed iteratively. In each epoch the results wiil be performed on the window. if you want to run your own data, you have to down load the magazine datasets to train the model for a while and run the evaluate function with corresponding parameters. The final result is an adjacency matrix which indicates the relationship of fragments.
