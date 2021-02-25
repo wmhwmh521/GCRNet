@@ -17,7 +17,10 @@ Our model is implemented on the Ubuntu16.04 and RTX-2080TI. We use pytorch(CUDA 
 ## 2.datases
 ***
 
-In our comparative experiment we use the magazine dataset set up by richer, MIT and BGU datasets. You can download these data [here](https://drive.google.com/file/d/13bW2Vpt79F8vuhWvu6NxLIf4FNovg5oz/view?usp=sharing, https://drive.google.com/file/d/1TT2ghgOw_CSQtvwSlw7z5p6YXBSiItRZ/view?usp=sharing, https://drive.google.com/file/d/1rjbOK2qTKAnmEaMTQZ1jkEM5kDdVyfg4/view?usp=sharing)
+In our comparative experiment we use the magazine dataset set up by richer, MIT and BGU datasets. You can download these datasets here 
+[1](https://drive.google.com/file/d/13bW2Vpt79F8vuhWvu6NxLIf4FNovg5oz/view?usp=sharing)
+[2](https://drive.google.com/file/d/1TT2ghgOw_CSQtvwSlw7z5p6YXBSiItRZ/view?usp=sharing)
+[3](https://drive.google.com/file/d/1rjbOK2qTKAnmEaMTQZ1jkEM5kDdVyfg4/view?usp=sharing)
 
 ## 3.structure
 ***
