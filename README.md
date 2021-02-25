@@ -22,3 +22,7 @@ In our comparative experiment we use the magazine dataset set up by richer, MIT 
 ## 3.structure
 ***
 
+- GCRNet
+GCRNet is the proposed model in our paper. Ii is composed of CNN and RNN modules. All the coresponding functions are collected in this file, such as the preprocessd operation， the architecture of each module and the training process.
+- Contrast experiment and robust experiment
+Contrast experiment and robust experiment are all additional experiments to exam the ability of the model. These files describe the experiments on other datasets and the results of RNN module with classical descriptors.
