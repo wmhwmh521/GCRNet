@@ -37,3 +37,15 @@ Contrast experiment and robust experiment are all additional experiments to exam
 ***
 
 If you have downloaded all datasets and ensure that the path in GCRNet or other files are correct, just run the codes. The training process and the testing process are performed iteratively. In each epoch the results wiil be performed on the window. if you want to run your own data, you have to down load the magazine datasets to train the model for a while and run the evaluate function with corresponding parameters. The final result is an adjacency matrix which indicates the relationship of fragments.
+
+- GCRNet
+
+Fragement Graph_RNN.ipynb is the standard model tested on magazine datasets and other public datasets.
+
+- Ablation Experiment
+
+4resnet.ipynb is the Ablation Experiment tested magazine datasets. The container of residual blocks is reduced one by one.
+
+- Robustness Experiment
+
+NEW_compare.ipynb is the comparable experiments on different artifical descriptors and datasets. It concludes the Robustness Experiment of partially missing image and multi-image reconstruction tasks. The largest reconstruction task consists of 128 shredded pieces.
