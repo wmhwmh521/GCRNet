@@ -10,9 +10,8 @@ GCRNet is a fragments reassmebly framework based on graph generation strategy an
 
 Our model is implemented on the Ubuntu16.04 and RTX-2080TI. We use pytorch(CUDA version) to build the module and run the experiments. If you want to run the codes mentioned in this project, these additional packages are needed:
 - python3.6
-- pytorch
-- opencv
-- py
+- pytorch'1.6.0'
+- opencv'3.4.2'
 
 ## 2.datases
 ***
