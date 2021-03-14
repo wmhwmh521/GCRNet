@@ -5,6 +5,7 @@ GCRNet is a fragments reassmebly framework based on graph generation strategy an
 
 ![image](https://github.com/wmhwmh521/GCRNet/blob/main/1.png)
 
+
 ## 1.environment
 ***
 
@@ -48,3 +49,5 @@ Fragement Graph_RNN.ipynb is the standard model tested on magazine datasets and 
 - Robustness Experiment
 
 NEW_compare.ipynb is the comparable experiments on different artifical descriptors and datasets. It concludes the Robustness Experiment of partially missing image and multi-image reconstruction tasks. The largest reconstruction task consists of 128 shredded pieces.
+
+![image](https://github.com/wmhwmh521/GCRNet/blob/main/128.jpg)
